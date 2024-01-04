@@ -1,0 +1,14 @@
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\bin\Debug\net8.0\ControlePesoElevador.exe
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\bin\Debug\net8.0\ControlePesoElevador.deps.json
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\bin\Debug\net8.0\ControlePesoElevador.runtimeconfig.json
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\bin\Debug\net8.0\ControlePesoElevador.dll
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\bin\Debug\net8.0\ControlePesoElevador.pdb
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\ControlePesoElevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\ControlePesoElevador.AssemblyInfoInputs.cache
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\ControlePesoElevador.AssemblyInfo.cs
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\ControlePesoElevador.csproj.CoreCompileInputs.cache
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\ControlePesoElevador.dll
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\refint\ControlePesoElevador.dll
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\ControlePesoElevador.pdb
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\ControlePesoElevador.genruntimeconfig.cache
+C:\Users\Bonaparte\source\repos\ControlePesoElevador\ControlePesoElevador\obj\Debug\net8.0\ref\ControlePesoElevador.dll
